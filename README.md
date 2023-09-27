@@ -7,6 +7,8 @@
 
 This repository contains the resources for paper **_A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future_**
 
+![fig1](figure/fig1.png)
+
 For more details, please refer to the paper: [A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future]().
 
 This reading list will be updated periodically, and if you have any suggestions or find some we missed, feel free to contact us! You can submit an issue or send an email (zchu@ir.hit.edu.cn).
@@ -274,10 +276,10 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Ask Me Anything: A simple strategy for prompting language models**, ICLR 2023 [[paper](https://openreview.net/pdf?id=bhUPJnS2g0X)]
 - **Large Language Models Can Be Easily Distracted by Irrelevant Context**, ICLR 2023 [[paper](https://proceedings.mlr.press/v202/shi23a.html)]
 
-## Citation
+<!-- ## Citation
 
 If you find our work helpful, you can cite this paper as:
 
 ```bibtex
 
-```
+``` -->
