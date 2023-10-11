@@ -299,3 +299,5 @@ If you find our work helpful, you can cite this paper as:
       primaryClass={cs.CL}
 }
 ```
+
+![Star History Chart](https://api.star-history.com/svg?repos=zchuz/CoT-Reasoning-Survey&type=Date)
