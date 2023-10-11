@@ -230,7 +230,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Large Language Models Can Self-Improve**, arxiv.2210.11610 [[paper](https://doi.org/10.48550/arXiv.2210.11610)]
 - **Teaching Small Language Models to Reason**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-short.151)]
 - **Large Language Models Are Reasoning Teachers**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-long.830)]
-- **Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-long.150]
+- **Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think” Step-by-Step**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-long.150)]
 - **SCOTT: Self-Consistent Chain-of-Thought Distillation**, ACL 2023 [[paper](https://api.semanticscholar.org/CorpusID:258461058)]
 - **Specializing Smaller Language Models towards Multi-Step Reasoning**, ICML 2023 [[paper](https://api.semanticscholar.org/CorpusID:256390607)]
 - **Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes**, arxiv.2305.02301 [[paper](https://api.semanticscholar.org/CorpusID:258461606)]
