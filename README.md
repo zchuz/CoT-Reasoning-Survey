@@ -2,7 +2,8 @@
 
 <div align="center">
     <a href="https://arxiv.org/abs/2309.15402"><img src="https://img.shields.io/badge/arXiv-2309.15402-b31b1b.svg" alt="Paper"></a>
-    <a href="https://github.com/zchuz/CoT-Reasoning-Survey"><img src="https://img.shields.io/github/last-commit/zchuz/CoT-Reasoning-Survey?color=green" alt="Github"></a>
+    <a href="https://github.com/zchuz/CoT-Reasoning-Survey"><img src="https://img.shields.io/github/last-commit/zchuz/CoT-Reasoning-Survey?color=blue" alt="Github"></a>
+    <a href="https://github.com/zchuz/CoT-Reasoning-Survey/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/zchuz/CoT-Reasoning-Survey?color=green"> </a>
 </div>
 
 This repository contains the resources for paper **_A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future_**
@@ -10,6 +11,11 @@ This repository contains the resources for paper **_A Survey of Chain of Thought
 ![fig1](figure/fig1.png)
 
 For more details, please refer to the paper: [A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future](https://arxiv.org/abs/2309.15402).
+
+## 🎉 Updates
+
+- 2023/09/27 The first version of our paper is available on [arxiv](https://arxiv.org/abs/2309.15402)
+- 2023/09/22 We created this reading list repository.
 
 This reading list will be updated periodically, and if you have any suggestions or find some we missed, feel free to contact us! You can submit an issue or send an email (zchu@ir.hit.edu.cn).
 
@@ -276,7 +282,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Ask Me Anything: A simple strategy for prompting language models**, ICLR 2023 [[paper](https://openreview.net/pdf?id=bhUPJnS2g0X)]
 - **Large Language Models Can Be Easily Distracted by Irrelevant Context**, ICLR 2023 [[paper](https://proceedings.mlr.press/v202/shi23a.html)]
 
-## Citation
+## 📝 Citation
 
 If you find our work helpful, you can cite this paper as:
 
