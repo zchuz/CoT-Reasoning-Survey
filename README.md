@@ -218,9 +218,11 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Large Language Model Guided Tree-of-Thought**, arxiv.2305.08291 [[paper](https://doi.org/10.48550/arXiv.2305.08291)]
 - **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, arxiv.2305.10601 [[paper](https://doi.org/10.48550/arXiv.2305.10601)]
 - **Reasoning with Language Model is Planning with World Model**, arxiv.2305.14992 [[paper](https://api.semanticscholar.org/CorpusID:258865812)]
+- **AdaPlanner: Adaptive Planning from Feedback with Language Models**, arxiv.2305.16653 [[paper](https://doi.org/10.48550/arxiv.2305.16653)]
 - **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**, arxiv.2308.09687 [[paper](https://doi.org/10.48550/arXiv.2308.09687)]
 - **Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought**, arxiv.2308.08614 [[paper](https://doi.org/10.48550/arXiv.2308.08614)]
 - **Dynamic Planning with a LLM**, arxiv.2308.06391 [[paper](https://api.semanticscholar.org/CorpusID:260887774)]
+- **ISR-LLM: Iterative Self-Refined Large Language Model for Long-Horizon Sequential Task Planning**, arXiv.2308.13724 [[paper](https://doi.org/10.48550/arXiv.2308.13724)]
 
 ### Distillation
 
@@ -244,6 +246,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **T-SciQ: Teaching Multimodal Chain-of-Thought Reasoning via Large Language Model Signals for Science Question Answering**, arxiv.2305.03453 [[paper](https://doi.org/10.48550/arXiv.2305.03453)]
 - **Thinking Like an Expert:Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals**, arxiv.2308.06207 [[paper](https://doi.org/10.48550/arxiv.2308.06207)]
 - **Tree-of-Mixed-Thought: Combining Fast and Slow Thinking for Multi-hop Visual Reasoning**, arxiv.2308.0965 [[paper](https://doi.org/10.48550/arXiv.2308.09658)]
+- **You Only Look at Screens: Multimodal Chain-of-Action Agents**, arXiv.2309.11436 [[paper](https://doi.org/10.48550/arXiv.2309.11436)]
 
 ### Faithful XoT
 
