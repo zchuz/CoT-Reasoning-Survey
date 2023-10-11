@@ -14,7 +14,7 @@ For more details, please refer to the paper: [A Survey of Chain of Thought Reaso
 
 ## 🎉 Updates
 
-- 2023/09/27 The first version of our paper is available on [arxiv](https://arxiv.org/abs/2309.15402)
+- 2023/09/27 The first version of our paper is available on [arxiv](https://arxiv.org/abs/2309.15402).
 - 2023/09/22 We created this reading list repository.
 
 This reading list will be updated periodically, and if you have any suggestions or find some we missed, feel free to contact us! You can submit an issue or send an email (zchu@ir.hit.edu.cn).
