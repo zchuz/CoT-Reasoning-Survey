@@ -202,6 +202,7 @@ https://doi.org/10.48550/arXiv.2305.14999
 - **Active Prompting with Chain-of-Thought for Large Language Models**, arxiv.2302.12246 [[paper](https://doi.org/10.48550/arXiv.2302.12246)]
 - **Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning with LLMs**, arxiv.2305.11860 [[paper](https://doi.org/10.48550/arXiv.2305.11860)]
 - **Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding**, arxiv.2307.15337 [[paper](https://doi.org/10.48550/arXiv.2307.15337)]
+- **Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning**, arXiv.2310.03094 [[paper](https://doi.org/10.48550/arXiv.2310.03094)] 💡
 
 ## 🛸 Frontier Application
 
@@ -228,6 +229,9 @@ https://doi.org/10.48550/arXiv.2305.14999
 - **Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought**, arxiv.2308.08614 [[paper](https://doi.org/10.48550/arXiv.2308.08614)]
 - **Dynamic Planning with a LLM**, arxiv.2308.06391 [[paper](https://api.semanticscholar.org/CorpusID:260887774)]
 - **ISR-LLM: Iterative Self-Refined Large Language Model for Long-Horizon Sequential Task Planning**, arXiv.2308.13724 [[paper](https://doi.org/10.48550/arXiv.2308.13724)] 💡
+- **Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models**,  	
+arXiv.2310.03965 [[paper]( 	
+https://doi.org/10.48550/arXiv.2310.03965)] 💡
 - **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**, arXiv.2310.04406 [[paper](https://doi.org/10.48550/arXiv.2310.04406)] 💡
 
 ### Distillation
