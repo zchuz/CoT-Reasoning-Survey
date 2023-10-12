@@ -31,6 +31,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **A Survey for In-context Learning**, arXiv.2301.00234 [[paper](https://doi.org/10.48550/arXiv.2301.00234)]
 - **A Survey of Large Language Models**, arXiv.2303.18223 [[paper](https://doi.org/10.48550/arXiv.2303.18223)]
 - **Nature Language Reasoning, A Survey**, arXiv.2303.14725 [[paper](https://doi.org/10.48550/arXiv.2303.14725)]
+- **A Survey on Large Language Model based Autonomous Agents**, arXiv.2308.11432 [[paper](https://doi.org/10.48550/arXiv.2308.11432)] 💡
 
 ### Blogs
 
@@ -212,9 +213,15 @@ https://doi.org/10.48550/arXiv.2305.14999
 - **TALM: Tool Augmented Language Models**, arxiv.2205.12255 [[paper](https://doi.org/10.48550/arXiv.2205.12255)]
 - **ReAct: Synergizing Reasoning and Acting in Language Models**, ICLR 2023 [[paper](https://openreview.net/pdf?id=WE_vluYUL-X)]
 - **Toolformer: Language Models Can Teach Themselves to Use Tools**, arxiv.2302.04761 [[paper](https://doi.org/10.48550/arXiv.2302.04761)]
-- **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**, arxiv.2303.17580 [[paper](https://api.semanticscholar.org/CorpusID:257833781)]
+- **ART: Automatic multi-step reasoning and tool-use for large language models**, arXiv.2303.09014 [[paper]( 	
+https://doi.org/10.48550/arXiv.2303.09014)] 💡
 - **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**, arxiv.2303.11381 [[paper](https://doi.org/10.48550/arXiv.2303.11381)]
+- **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**, arxiv.2303.17580 [[paper](https://api.semanticscholar.org/CorpusID:257833781)]
 - **API-Bank: A Benchmark for Tool-Augmented LLMs**, arxiv.2304.08244 [[paper](https://api.semanticscholar.org/CorpusID:258179056)]
+- **Large Language Models as Tool Makers**, arXiv.2305.17126 [[paper](https://doi.org/10.48550/arXiv.2305.17126)] 💡
+- **GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution**, arXiv.2307.08775 [[paper](https://doi.org/10.48550/arXiv.2307.08775)] 💡
+- **TPTU: Task Planning and Tool Usage of Large Language Model-based AI Agents**, arXiv.2308.03427 [[paper](https://doi.org/10.48550/arXiv.2308.03427)] 💡
+- **MetaTool Benchmark: Deciding Whether to Use Tools and Which to Use**, arXiv.2310.03128 [[paper](https://doi.org/10.48550/arXiv.2310.03128)] 💡
 
 ### Planning
 
