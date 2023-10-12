@@ -49,7 +49,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Training Verifiers to Solve Math Word Problems**, arxiv.2110.14168 [[paper](https://arxiv.org/abs/2110.14168)]
 - **PAL: Program-aided Language Models**, ICML 2023 [[paper](https://proceedings.mlr.press/v202/gao23f.html)]
 - **MathQA: Towards Interpretable Math Word Problem Solving with Operation-Based Formalisms**, NAACL 2019 [[paper](https://doi.org/10.18653/v1/n19-1245)]
-- **DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs**. ACL 2019 [[paper](https://aclanthology.org/N19-1246)]
+- **DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs**, ACL 2019 [[paper](https://aclanthology.org/N19-1246)]
 - **TheoremQA: A Theorem-driven Question Answering dataset**, arXiv.2305.12524 [[paper](https://doi.org/10.48550/arXiv.2305.12524)]
 - **TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance**, ACL 2021 [[paper](https://doi.org/10.18653/v1/2021.acl-long.254)]
 - **FinQA: A Dataset of Numerical Reasoning over Financial Data**, EMNLP 2021 [[paper](https://doi.org/10.18653/v1/2021.emnlp-main.300)]
@@ -175,6 +175,9 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Decomposed Prompting: A Modular Approach for Solving Complex Tasks**, ICLR 2023 [[paper](https://openreview.net/pdf?id=_nGgzQjzaRy)]
 - **Binding Language Models in Symbolic Languages**, ICLR 2023 [[paper](https://openreview.net/pdf?id=lH1PV42cbF)]
 - **Large Language Models are Versatile Decomposers: Decomposing Evidence and Questions for Table-based Reasoning**, SIGIR 2023 [[paper](https://doi.org/10.1145/3539618.3591708)]
+- **The Art of SOCRATIC QUESTIONING: Zero-shot Multimodal Reasoning with Recursive Thinking and Self-Questioning**, arXiv.2305.14999 [[paper]( 	
+https://doi.org/10.48550/arXiv.2305.14999
+)]
 
 #### External Knowledge
 
@@ -223,6 +226,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought**, arxiv.2308.08614 [[paper](https://doi.org/10.48550/arXiv.2308.08614)]
 - **Dynamic Planning with a LLM**, arxiv.2308.06391 [[paper](https://api.semanticscholar.org/CorpusID:260887774)]
 - **ISR-LLM: Iterative Self-Refined Large Language Model for Long-Horizon Sequential Task Planning**, arXiv.2308.13724 [[paper](https://doi.org/10.48550/arXiv.2308.13724)]
+- **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**, arXiv.2310.04406 [[paper](https://doi.org/10.48550/arXiv.2310.04406)]
 
 ### Distillation
 
