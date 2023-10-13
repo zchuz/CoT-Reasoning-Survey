@@ -149,6 +149,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Large Language Model Guided Tree-of-Thought**, arxiv.2305.08291 [[paper](https://doi.org/10.48550/arXiv.2305.08291)]
 - **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, arxiv.2305.10601 [[paper](https://doi.org/10.48550/arXiv.2305.10601)]
 - **Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding**, arxiv.2307.15337 [[paper](https://doi.org/10.48550/arXiv.2307.15337)]
+- **Tree of Uncertain Thoughts Reasoning for Large Language Models**, arXiv.2309.07694 [[paper](https://doi.org/10.48550/arXiv.2309.07694)] 💡
 
 #### Graph Structure
 
