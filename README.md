@@ -119,7 +119,6 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**, arxiv.2211.12588 [[paper](https://doi.org/10.48550/arXiv.2211.12588)]
 - **MathPrompter: Mathematical Reasoning using Large Language Models**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-industry.4)]
 - **Complexity-Based Prompting for Multi-step Reasoning**, ICLR 2023 [[paper](https://openreview.net/pdf?id=yf1icZHC-l9)]
-- **Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios with Large Language Models**, arxiv.2310.06692 [[paper](https://arxiv.org/abs/2310.06692)] 💡
 
 #### Automatic Construction
 
@@ -139,6 +138,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**, arxiv.2302.12822 [[paper](https://doi.org/10.48550/arXiv.2302.12822)]
 - **Explanation Selection Using Unlabeled Data for In-Context Learning**, arxiv.2302.04813 [[paper](https://doi.org/10.48550/arXiv.2302.04813)]
 - **Boosted Prompt Ensembles for Large Language Models**, arxiv.2304.05970 [[paper](https://doi.org/10.48550/arXiv.2304.05970)]
+- **Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios with Large Language Models**, arxiv.2310.06692 [[paper](https://arxiv.org/abs/2310.06692)] 💡
 
 ### XoT Structural Variants
 
