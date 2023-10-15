@@ -127,7 +127,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models**, ACL 2023 [[paper](https://aclanthology.org/2023.acl-long.147)]
 - **Automatic Chain of Thought Prompting in Large Language Models**, ICLR 2023 [[paper](https://openreview.net/pdf?id=5NTt8GFjUHkr)]
 - **Reprompting: Automated Chain-of-Thought Prompt Inference Through Gibbs Sampling**, arxiv.2305.09993 [[paper](https://doi.org/10.48550/arxiv.2305.09993)]
-- **Better Zero-Shot Reasoning with Self-Adaptive Prompting**, arxiv.2305.14106 [[paper](https://arxiv.org/abs/2305.14106)] 💡
+- **Better Zero-Shot Reasoning with Self-Adaptive Prompting**, ACL 2023 [[paper](https://arxiv.org/abs/2305.14106)] 💡
 - **Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic**, arxiv.2309.13339 [[paper](https://arxiv.org/abs/2309.13339)] 💡
 - **Agent Instructs Large Language Models to be General Zero-Shot Reasoners**, arxiv.2310.03710, [[paper](https://arxiv.org/abs/2310.03710)] 💡
 
