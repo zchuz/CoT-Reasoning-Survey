@@ -294,7 +294,6 @@ https://doi.org/10.48550/arXiv.2310.03965)] 💡
 - **T-SciQ: Teaching Multimodal Chain-of-Thought Reasoning via Large Language Model Signals for Science Question Answering**, arxiv.2305.03453 [[paper](https://doi.org/10.48550/arXiv.2305.03453)]
 - **Thinking Like an Expert:Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals**, arxiv.2308.06207 [[paper](https://doi.org/10.48550/arxiv.2308.06207)]
 - **Tree-of-Mixed-Thought: Combining Fast and Slow Thinking for Multi-hop Visual Reasoning**, arxiv.2308.0965 [[paper](https://doi.org/10.48550/arXiv.2308.09658)]
-- **You Only Look at Screens: Multimodal Chain-of-Action Agents**, arXiv.2309.11436 [[paper](https://doi.org/10.48550/arXiv.2309.11436)] 💡
 
 ### Faithful XoT
 
