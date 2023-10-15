@@ -14,6 +14,7 @@ For more details, please refer to the paper: [A Survey of Chain of Thought Reaso
 
 ## 🎉 Updates
 
+- 2023/10/15 We have updated 44 papers in the reading list, and the v2 paper is on its way.
 - 2023/09/27 The first version of our paper is available on [arxiv](https://arxiv.org/abs/2309.15402).
 - 2023/09/22 We created this reading list repository.
 
@@ -118,14 +119,18 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**, arxiv.2211.12588 [[paper](https://doi.org/10.48550/arXiv.2211.12588)]
 - **MathPrompter: Mathematical Reasoning using Large Language Models**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-industry.4)]
 - **Complexity-Based Prompting for Multi-step Reasoning**, ICLR 2023 [[paper](https://openreview.net/pdf?id=yf1icZHC-l9)]
+- **Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios with Large Language Models**, arxiv.2310.06692 [[paper](https://arxiv.org/abs/2310.06692)] 💡
 
 #### Automatic Construction
 
 - **Large Language Models are Zero-Shot Reasoners**, NeurIPS 2022 [[paper](http://papers.nips.cc/paper_files/paper/2022/hash/8bb0d291acd4acf06ef112099c16f326-Abstract-Conference.html)]
 - **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**, arxiv.2211.12588 [[paper](https://doi.org/10.48550/arXiv.2211.12588)]
+- **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models**, ACL 2023 [[paper](https://aclanthology.org/2023.acl-long.147)]
 - **Automatic Chain of Thought Prompting in Large Language Models**, ICLR 2023 [[paper](https://openreview.net/pdf?id=5NTt8GFjUHkr)]
 - **Reprompting: Automated Chain-of-Thought Prompt Inference Through Gibbs Sampling**, arxiv.2305.09993 [[paper](https://doi.org/10.48550/arxiv.2305.09993)]
-- **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models**, ACL 2023 [[paper](https://aclanthology.org/2023.acl-long.147)]
+- **Better Zero-Shot Reasoning with Self-Adaptive Prompting**, arxiv.2305.14106 [[paper](https://arxiv.org/abs/2305.14106)] 💡
+- **Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic**, arxiv.2309.13339 [[paper](https://arxiv.org/abs/2309.13339)] 💡
+- **Agent Instructs Large Language Models to be General Zero-Shot Reasoners**, arxiv.2310.03710, [[paper](https://arxiv.org/abs/2310.03710)] 💡
 
 #### Semi-Automatic Construction
 
@@ -150,11 +155,14 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, arxiv.2305.10601 [[paper](https://doi.org/10.48550/arXiv.2305.10601)]
 - **Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding**, arxiv.2307.15337 [[paper](https://doi.org/10.48550/arXiv.2307.15337)]
 - **Tree of Uncertain Thoughts Reasoning for Large Language Models**, arXiv.2309.07694 [[paper](https://doi.org/10.48550/arXiv.2309.07694)] 💡
+- **Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models**, arxiv.2310.03965 [[paper](https://arxiv.org/abs/2310.03965)] 💡
 
 #### Graph Structure
 
 - **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**, arxiv.2308.09687 [[paper](https://doi.org/10.48550/arXiv.2308.09687)]
 - **Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought**, arxiv.2308.08614 [[paper](https://doi.org/10.48550/arXiv.2308.08614)]
+- **Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning**, arxiv.2310.03094 [[paper](https://arxiv.org/abs/2310.03094)] 💡
+- **Resprompt: Residual Connection Prompting Advances Multi-Step Reasoning in Large Language Models**, arxix.2310.04743 [[paper](https://arxiv.org/abs/2310.04743)] 💡
 
 ### XoT Enhancement Methods
 
@@ -170,6 +178,12 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought**, arxiv.2305.11499 [[paper](https://doi.org/10.48550/arXiv.2305.11499)]
 - **Deductive Verification of Chain-of-Thought Reasoning**, arxiv.2306.03872 [[paper](https://doi.org/10.48550/arXiv.2306.03872)]
 - **Forward-Backward Reasoning in Large Language Models for Verification**, arxiv.2308.07758 [[paper](https://doi.org/10.48550/arXiv.2308.07758)]
+- **SCREWS: A Modular Framework for Reasoning with Revisions**, arxiv.2309.13075 [[paper](https://arxiv.org/abs/2309.13075)] 💡
+- **Chain-of-Verification Reduces Hallucination in Large Language Models**, arxiv.2309.11495 [[paper](https://arxiv.org/abs/2309.11495)] 💡
+-  **Large Language Models Cannot Self-Correct Reasoning Yet**, arxiv.2310.01798 [[paper](https://arxiv.org/abs/2310.01798)] 💡
+- **Crystal: Introspective Reasoners Reinforced with Self-Feedback**, arxiv.2310.04921 [[paper](https://arxiv.org/abs/2310.04921)] 💡
+- **Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models**, arxiv.2310.04921 [[paper](https://arxiv.org/abs/2310.04921)] 💡
+- **Towards Mitigating Hallucination in Large Language Models via Self-Reflection**, arxiv.2310.06271 [[paper](https://arxiv.org/abs/2310.06271)] 💡
 
 #### Question Decomposition
 
@@ -197,13 +211,16 @@ https://doi.org/10.48550/arXiv.2305.14999
 - **Self-Consistency Improves Chain of Thought Reasoning in Language Models**, ICLR 2023 [[paper](https://openreview.net/pdf?id=1PL1NIMMrw)]
 - **Complexity-Based Prompting for Multi-step Reasoning**, ICLR 2023 [[paper](https://openreview.net/pdf?id=yf1icZHC-l9)]
 - **Answering Questions by Meta-Reasoning over Multiple Chains of Thought**, arxiv.2304.13007 [[paper](https://doi.org/10.48550/arXiv.2304.13007)]
+- **Discriminator-Guided Multi-step Reasoning with Language Models**, arxiv.2305.14934 [[paper](https://arxiv.org/abs/2305.14934)] 💡
 - **SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning**, arxiv.2308.00436 [[paper](https://doi.org/10.48550/arxiv.2308.00436)]
+- **Diversity of Thought Improves Reasoning Abilities of Large Language Models**, arxiv.2310.07088 [[paper](https://arxiv.org/abs/2310.07088)] 💡
 
 #### Efficiency
 
 - **Active Prompting with Chain-of-Thought for Large Language Models**, arxiv.2302.12246 [[paper](https://doi.org/10.48550/arXiv.2302.12246)]
 - **Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning with LLMs**, arxiv.2305.11860 [[paper](https://doi.org/10.48550/arXiv.2305.11860)]
 - **Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding**, arxiv.2307.15337 [[paper](https://doi.org/10.48550/arXiv.2307.15337)]
+- **Draft & Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding**, arxiv.2309.08168 [[paper](https://arxiv.org/abs/2309.08168)] 💡
 - **Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning**, arXiv.2310.03094 [[paper](https://doi.org/10.48550/arXiv.2310.03094)] 💡
 
 ## 🛸 Frontier Application
@@ -222,6 +239,7 @@ https://doi.org/10.48550/arXiv.2303.09014)] 💡
 - **Large Language Models as Tool Makers**, arXiv.2305.17126 [[paper](https://doi.org/10.48550/arXiv.2305.17126)] 💡
 - **GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution**, arXiv.2307.08775 [[paper](https://doi.org/10.48550/arXiv.2307.08775)] 💡
 - **TPTU: Task Planning and Tool Usage of Large Language Model-based AI Agents**, arXiv.2308.03427 [[paper](https://doi.org/10.48550/arXiv.2308.03427)] 💡
+- **Natural Language Embedded Programs for Hybrid Language Symbolic Reasoning**, arxiv.2309.10814 [[paper](https://arxiv.org/abs/2309.10814)] 💡
 - **MetaTool Benchmark: Deciding Whether to Use Tools and Which to Use**, arXiv.2310.03128 [[paper](https://doi.org/10.48550/arXiv.2310.03128)] 💡
 
 ### Planning
@@ -237,6 +255,8 @@ https://doi.org/10.48550/arXiv.2303.09014)] 💡
 - **Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought**, arxiv.2308.08614 [[paper](https://doi.org/10.48550/arXiv.2308.08614)]
 - **Dynamic Planning with a LLM**, arxiv.2308.06391 [[paper](https://api.semanticscholar.org/CorpusID:260887774)]
 - **ISR-LLM: Iterative Self-Refined Large Language Model for Long-Horizon Sequential Task Planning**, arXiv.2308.13724 [[paper](https://doi.org/10.48550/arXiv.2308.13724)] 💡
+- **You Only Look at Screens: Multimodal Chain-of-Action Agents**, arxiv.2309.11436 [[paper](https://arxiv.org/abs/2309.11436)] 💡
+- **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**, arxiv.2309.17452 [[paper](https://arxiv.org/abs/2309.17452)] 💡
 - **Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models**,  	
 arXiv.2310.03965 [[paper]( 	
 https://doi.org/10.48550/arXiv.2310.03965)] 💡
@@ -254,6 +274,16 @@ https://doi.org/10.48550/arXiv.2310.03965)] 💡
 - **Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes**, arxiv.2305.02301 [[paper](https://api.semanticscholar.org/CorpusID:258461606)]
 - **Contrastive Decoding: Open-ended Text Generation as Optimizatio**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-long.687)]
 - **Contrastive Decoding Improves Reasoning in Large Language Models**, arxiv.2309.09117 [[paper](https://api.semanticscholar.org/CorpusID:261884427)]
+- **Chain-of-Thought Reasoning is a Policy Improvement Operator**, arxiv.2309.08589 [[paper](
+  https://doi.org/10.48550/arXiv.2309.08589)] 💡
+- **Design of Chain-of-Thought in Math Problem Solving**, arxiv.2309.11054 [[paper](
+  https://doi.org/10.48550/arXiv.2309.11054)] 💡
+- **DialCoT Meets PPO: Decomposing and Exploring Reasoning Paths in Smaller Language Models**, arxiv.2310.05074 [[paper](
+  https://doi.org/10.48550/arXiv.2310.05074)] 💡
+- **Guiding Language Model Reasoning with Planning Tokens**, arxiv.2310.05707 [[paper](https://arxiv.org/abs/2310.05707)] 💡
+
+
+
 
 ## 🔭 Future Prospect
 
@@ -270,19 +300,26 @@ https://doi.org/10.48550/arXiv.2310.03965)] 💡
 
 - **Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-long.320)]
 - **Rethinking with Retrieval: Faithful Large Language Model Inference**, arxiv.2301.00303 [[paper](https://doi.org/10.48550/arXiv.2301.00303)]
+- **How language model hallucinations can snowball**, arXiv.2305.13534 [[paper](https://arxiv.org/abs/2305.13534)] 💡
 - **Faithful Chain-of-Thought Reasoning**, arxiv.2301.13379 [[paper](https://doi.org/10.48550/arXiv.2301.13379)]
 - **Boosting Language Models Reasoning with Chain-of-Knowledge Prompting**, arxiv.2306.06427 [[paper](https://doi.org/10.48550/arXiv.2306.06427)]
 - **Question Decomposition Improves the Faithfulness of Model-Generated Reasoning**, arxiv.2307.11768 [[paper](https://doi.org/10.48550/arXiv.2307.11768)]
 - **Measuring Faithfulness in Chain-of-Thought Reasoning**, arxiv.2307.13702 [[paper](https://doi.org/10.48550/arXiv.2307.13702)]
+- **Chain of Natural Language Inference for Reducing Large Language Model Ungrounded Hallucinations**, arxiv.2310.03951 [[paper](https://arxiv.org/abs/2310.03951)] 💡
+- **Teaching Language Models to Hallucinate Less with Synthetic Tasks**, 	arXiv:2310.06827 [[paper](
+https://doi.org/10.48550/arXiv.2310.06827)] 💡
 
 ### CoT Theory
 
 - **Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango**, arxiv.2209.07686 [[paper](https://doi.org/10.48550/arXiv.2209.07686)]
+- **Language Models of Code are Few-Shot Commonsense Learners**, EMNLP 2022 [[paper](https://doi.org/10.18653/v1/2022.emnlp-main.90)] 💡
 - **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-long.153)]
+- **Exploring the Curious Case of Code Prompts**, arxiv.2304.13250 [[paper](https://arxiv.org/abs/2304.13250)] 💡
 - **Large Language Models are In-Context Semantic Reasoners rather than Symbolic Reasoners**, arxiv.2305.14825 [[paper](https://doi.org/10.48550/arXiv.2305.14825)]
 - **Dissecting Chain-of-Thought: A Study on Compositional In-Context Learning of MLPs**, arxiv.2305.18869 [[paper](https://doi.org/10.48550/arXiv.2305.18869)]
 - **Towards Revealing the Mystery behind Chain of Thought: a TheoreticalPerspective**, arxiv.2305.15408 [[paper](https://doi.org/10.48550/arxiv.2305.15408)]
 - **Analyzing Chain-of-Thought Prompting in Large Language Models via Gradient-based Feature Attributions**, arxiv.2307.13339 [[paper](https://doi.org/10.48550/arXiv.2307.13339)]
+- **The Expressive Power of Transformers with Chain of Thought**, arxiv.2310.07923 [[paper](https://doi.org/10.48550/arXiv.2310.07923)] 💡
 
 ## 🚢 Other works
 
@@ -302,6 +339,7 @@ https://doi.org/10.48550/arXiv.2310.03965)] 💡
 - **Language models are multilingual chain-of-thought reasoners**, ICLR 2023 [[paper](https://openreview.net/pdf?id=fR3wGCk-IXp)]
 - **Ask Me Anything: A simple strategy for prompting language models**, ICLR 2023 [[paper](https://openreview.net/pdf?id=bhUPJnS2g0X)]
 - **Large Language Models Can Be Easily Distracted by Irrelevant Context**, ICLR 2023 [[paper](https://proceedings.mlr.press/v202/shi23a.html)]
+- **CoT-BERT: Enhancing Unsupervised Sentence Representation through Chain-of-Thought**, arxiv.2309.11143 [[paper](https://arxiv.org/abs/2309.11143)] 💡
 
 ## 📝 Citation
 
