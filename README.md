@@ -33,6 +33,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **A Survey of Large Language Models**, arXiv.2303.18223 [[paper](https://doi.org/10.48550/arXiv.2303.18223)]
 - **Nature Language Reasoning, A Survey**, arXiv.2303.14725 [[paper](https://doi.org/10.48550/arXiv.2303.14725)]
 - **A Survey on Large Language Model based Autonomous Agents**, arXiv.2308.11432 [[paper](https://doi.org/10.48550/arXiv.2308.11432)] 💡
+- **Towards Better Chain-of-Thought Prompting Strategies: A Survey**, arXiv.2310.04959 [[paper](https://doi.org/10.48550/arXiv.2310.04959)] 💡
 
 ### Blogs
 
@@ -104,7 +105,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **What is More Likely to Happen Next? Video-and-Language Future Event Prediction**, EMNLP 2020 [[paper](https://doi.org/10.18653/v1/2020.emnlp-main.706)]
 - **CLEVRER: Collision Events for Video Representation and Reasoning**, ICLR 2020 [[paper](https://openreview.net/forum?id=HkxYzANYDB)]
 - **NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions**, CVPR 2021 [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Xiao_NExT-QA_Next_Phase_of_Question-Answering_to_Explaining_Temporal_Actions_CVPR_2021_paper.html)]
-- **STaR: Bootstrapping Reasoning With Reasoning**, NeurIPS 2022 [[paper](http://papers.nips.cc/paper_files/paper/2022/hash/639a9a172c044fbb64175b5fad42e9a5-Abstract-Conference.html)]
+- **STAR: A Benchmark for Situated Reasoning in Real-World Videos**, NeurIPS 2021 [[paper](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/5ef059938ba799aaa845e1c2e8a762bd-Abstract-round2.html)]
 - **From Representation to Reasoning: Towards both Evidence and Commonsense Reasoning for Video Question-Answering**, CVPR 2022 [[paper](https://doi.org/10.1109/CVPR52688.2022.02059)]
 - **NewsKVQA: Knowledge-Aware News Video Question Answering**, PAKDD 2022 [[paper](https://doi.org/10.1007/978-3-031-05981-0_1)]
 
