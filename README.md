@@ -35,6 +35,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Nature Language Reasoning, A Survey**, arXiv.2303.14725 [[paper](https://doi.org/10.48550/arXiv.2303.14725)]
 - **A Survey on Large Language Model based Autonomous Agents**, arXiv.2308.11432 [[paper](https://doi.org/10.48550/arXiv.2308.11432)] 💡
 - **Towards Better Chain-of-Thought Prompting Strategies: A Survey**, arXiv.2310.04959 [[paper](https://doi.org/10.48550/arXiv.2310.04959)] 💡
+- **Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity**, arXiv.2310.07521 [[paper](https://doi.org/10.48550/arXiv.2310.07521)] 💡
 
 ### Blogs
 
@@ -238,19 +239,24 @@ https://doi.org/10.48550/arXiv.2305.14999
 - **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**, arxiv.2303.11381 [[paper](https://doi.org/10.48550/arXiv.2303.11381)]
 - **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**, arxiv.2303.17580 [[paper](https://api.semanticscholar.org/CorpusID:257833781)]
 - **API-Bank: A Benchmark for Tool-Augmented LLMs**, arxiv.2304.08244 [[paper](https://api.semanticscholar.org/CorpusID:258179056)]
+- **On the Tool Manipulation Capability of Open-source Large Language Models**, arXiv.2305.16504 [[paper](https://doi.org/10.48550/arXiv.2305.16504)] 💡
 - **Large Language Models as Tool Makers**, arXiv.2305.17126 [[paper](https://doi.org/10.48550/arXiv.2305.17126)] 💡
 - **GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution**, arXiv.2307.08775 [[paper](https://doi.org/10.48550/arXiv.2307.08775)] 💡
+- **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**, arXiv.2307.16789 [[paper](https://doi.org/10.48550/arXiv.2307.16789)] 💡
+- **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**, arXiv.2309.10691 [[paper](https://doi.org/10.48550/arXiv.2309.10691)] 💡
 - **Natural Language Embedded Programs for Hybrid Language Symbolic Reasoning**, arxiv.2309.10814 [[paper](https://arxiv.org/abs/2309.10814)] 💡
 - **MetaTool Benchmark: Deciding Whether to Use Tools and Which to Use**, arXiv.2310.03128 [[paper](https://doi.org/10.48550/arXiv.2310.03128)] 💡
 
 ### Planning
 
+- **Large Language Models Still Can't Plan (A Benchmark for LLMs on Planning and Reasoning about Change)**, arXiv.2206.10498 [[paper](https://doi.org/10.48550/arXiv.2206.10498)] 💡
 - **Reflexion: Language Agents with Verbal Reinforcement Learning**, arxiv.2303.11366 [[paper](https://api.semanticscholar.org/CorpusID:258833055)]
 - **Self-Refine: Iterative Refinement with Self-Feedback**, arxiv.2303.17651 [[paper](https://doi.org/10.48550/arXiv.2303.17651)]
 - **LLM+P: Empowering Large Language Models with Optimal Planning Proficiency**, arxiv.2304.11477 [[paper](https://doi.org/10.48550/arxiv.2304.11477)]
 - **Large Language Model Guided Tree-of-Thought**, arxiv.2305.08291 [[paper](https://doi.org/10.48550/arXiv.2305.08291)]
 - **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, arxiv.2305.10601 [[paper](https://doi.org/10.48550/arXiv.2305.10601)]
 - **Reasoning with Language Model is Planning with World Model**, arxiv.2305.14992 [[paper](https://api.semanticscholar.org/CorpusID:258865812)]
+- **On the Planning Abilities of Large Language Models -- A Critical Investigation**, arXiv.2305.15771 [[paper](https://doi.org/10.48550/arXiv.2305.15771)] 💡
 - **AdaPlanner: Adaptive Planning from Feedback with Language Models**, arxiv.2305.16653 [[paper](https://doi.org/10.48550/arxiv.2305.16653)] 💡
 - **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**, arxiv.2308.09687 [[paper](https://doi.org/10.48550/arXiv.2308.09687)]
 - **Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought**, arxiv.2308.08614 [[paper](https://doi.org/10.48550/arXiv.2308.08614)]
@@ -260,6 +266,8 @@ https://doi.org/10.48550/arXiv.2305.14999
 - **You Only Look at Screens: Multimodal Chain-of-Action Agents**, arxiv.2309.11436 [[paper](https://arxiv.org/abs/2309.11436)] 💡
 - **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**, arxiv.2309.17452 [[paper](https://arxiv.org/abs/2309.17452)] 💡
 - **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**, arXiv.2310.04406 [[paper](https://doi.org/10.48550/arXiv.2310.04406)] 💡
+- **Tree-Planner: Efficient Close-loop Task Planning with Large Language Models**, arXiv.2310.08582 [[paper](https://doi.org/10.48550/arXiv.2310.08582)] 💡
+- **Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning**, arXiv.2310.04474 [[paper](https://doi.org/10.48550/arXiv.2310.04474)] 💡
 
 ### Distillation
 
@@ -280,9 +288,6 @@ https://doi.org/10.48550/arXiv.2305.14999
 - **DialCoT Meets PPO: Decomposing and Exploring Reasoning Paths in Smaller Language Models**, arxiv.2310.05074 [[paper](
   https://doi.org/10.48550/arXiv.2310.05074)] 💡
 - **Guiding Language Model Reasoning with Planning Tokens**, arxiv.2310.05707 [[paper](https://arxiv.org/abs/2310.05707)] 💡
-
-
-
 
 ## 🔭 Future Prospect
 
