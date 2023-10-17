@@ -33,6 +33,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **A Survey for In-context Learning**, arXiv.2301.00234 [[paper](https://doi.org/10.48550/arXiv.2301.00234)]
 - **A Survey of Large Language Models**, arXiv.2303.18223 [[paper](https://doi.org/10.48550/arXiv.2303.18223)]
 - **Nature Language Reasoning, A Survey**, arXiv.2303.14725 [[paper](https://doi.org/10.48550/arXiv.2303.14725)]
+- **A Survey on Evaluation of Large Language Models**, arXiv.2307.03109 [[paper](https://doi.org/10.48550/arXiv.2307.03109)] 💡
 - **A Survey on Large Language Model based Autonomous Agents**, arXiv.2308.11432 [[paper](https://doi.org/10.48550/arXiv.2308.11432)] 💡
 - **Towards Better Chain-of-Thought Prompting Strategies: A Survey**, arXiv.2310.04959 [[paper](https://doi.org/10.48550/arXiv.2310.04959)] 💡
 - **Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity**, arXiv.2310.07521 [[paper](https://doi.org/10.48550/arXiv.2310.07521)] 💡
