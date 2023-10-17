@@ -14,7 +14,7 @@ For more details, please refer to the paper: [A Survey of Chain of Thought Reaso
 
 ## 🎉 Updates
 
-- 2023/10/16 The second version of our paper has been released, check it on [arxiv](https://arxiv.org/abs/2309.15402).
+- 2023/10/17 The second version of our paper has been released, check it on [arxiv](https://arxiv.org/abs/2309.15402).
 - 2023/10/15 We have updated 44 papers in the reading list, and the v2 paper is on its way.
 - 2023/09/27 The first version of our paper is available on [arxiv](https://arxiv.org/abs/2309.15402).
 - 2023/09/22 We created this reading list repository.
