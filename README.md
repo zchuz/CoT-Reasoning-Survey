@@ -1,4 +1,31 @@
-# A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future
+<div align="center">
+<h1>
+A Survey of Chain of Thought Reasoning:
+Advances, Frontiers and Future
+</h1>
+</div>
+
+<div align="center">
+<b>Zheng Chu</b><sup>1∗</sup>,
+<b>Jingchang Chen</b><sup>1∗</sup>,
+<b>Qianglong Chen</b><sup>2∗</sup>,
+<b>Weijiang Yu</b><sup>2</sup>,
+<b>Tao He</b><sup>1</sup>,
+<b>Haotian Wang</b><sup>1</sup>,
+<b>Weihua Peng</b><sup>2</sup>,
+<b>Ming Liu</b><sup>1†</sup>,
+<b>Bing Qin</b><sup>1</sup>,
+<b>Ting Liu</b><sup>1</sup>
+</div>
+
+<div align="center">
+<sup>1</sup>Harbin Institute of Technology, Harbin, China
+</div>
+<div align="center">
+<sup>2</sup>Huawei Inc., Shenzhen, China
+</div>
+
+<br />
 
 <div align="center">
     <a href="https://arxiv.org/abs/2309.15402"><img src="https://img.shields.io/badge/arXiv-2309.15402-b31b1b.svg" alt="Paper"></a>
