@@ -8,7 +8,7 @@
 
 This repository contains the resources for paper **_A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future_**
 
-![fig1](figure/fig1.png)
+![taxonomy](figure/taxonomy.png)
 
 For more details, please refer to the paper: [A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future](https://arxiv.org/abs/2309.15402).
 
@@ -44,6 +44,8 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Towards Complex Reasoning: the Polaris of Large Language Models**, May 2023, Yao Fu’s Notion [[blog](https://yaofu.notion.site/Towards-Complex-Reasoning-the-Polaris-of-Large-Language-Models-c2b4a51355b44764975f88e6a42d4e75)]
 
 ## 💯 Benchmarks
+
+![benchmarks](figure/benchmarks.png)
 
 ### Mathematical Reasoning
 
@@ -146,6 +148,8 @@ This reading list will be updated periodically, and if you have any suggestions 
 
 ### XoT Structural Variants
 
+![](figure/structure_variants.png)
+
 #### Chain Structure
 
 - **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**, arxiv.2211.12588 [[paper](https://doi.org/10.48550/arXiv.2211.12588)]
@@ -172,6 +176,8 @@ This reading list will be updated periodically, and if you have any suggestions 
 
 #### Verify and Refine
 
+![](figure/verify_refine.png)
+
 - **Making Language Models Better Reasoners with Step-Aware Verifier**, ACL 2022 [[paper](https://api.semanticscholar.org/CorpusID:259370847)]
 - **Successive Prompting for Decomposing Complex Questions**, EMNLP 2022 [[paper](https://doi.org/10.18653/v1/2022.emnlp-main.81)]
 - **Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-long.320)]
@@ -191,6 +197,8 @@ This reading list will be updated periodically, and if you have any suggestions 
 
 #### Question Decomposition
 
+![](figure/decompose.png)
+
 - **Successive Prompting for Decomposing Complex Questions**, EMNLP 2022 [[paper](https://doi.org/10.18653/v1/2022.emnlp-main.81)]
 - **Iteratively Prompt Pre-trained Language Models for Chain of Thought**, EMNLP 2022 [[paper](https://doi.org/10.18653/v1/2022.emnlp-main.174)]
 - **Least-to-Most Prompting Enables Complex Reasoning in Large Language Models**, ICLR 2023 [[paper](https://openreview.net/pdf?id=WZH7099tgfM)]
@@ -203,6 +211,8 @@ https://doi.org/10.48550/arXiv.2305.14999
 
 #### External Knowledge
 
+![](figure/external_knowledge.png)
+
 - **Chain-of-Dictionary Prompting Elicits Translation in Large Language Models**, arxiv.2305.06575 [[paper](https://doi.org/10.48550/arXiv.2305.06575)]
 - **MoT: Pre-thinking and Recalling Enable ChatGPT to Self-Improve with Memory-of-Thoughts**, arxiv.2305.05181 [[paper](https://doi.org/10.48550/arXiv.2305.05181)]
 - **Chain of Knowledge: A Framework for Grounding Large Language Models with Structured Knowledge Bases**, arxiv.2305.13269 [[paper](https://doi.org/10.48550/arXiv.2305.13269)]
@@ -210,6 +220,8 @@ https://doi.org/10.48550/arXiv.2305.14999
 - **Knowledge-Driven CoT: Exploring Faithful Reasoning in LLMs for Knowledge-intensive Question Answering**, arxiv.2308.13259 [[paper](https://doi.org/10.48550/arxiv.2308.13259)]
 
 #### Vote and Rank
+
+![](figure/rank_vote.png)
 
 - **Training Verifiers to Solve Math Word Problems**, arxiv.2110.14168 [[paper](https://arxiv.org/abs/2110.14168)]
 - **Self-Consistency Improves Chain of Thought Reasoning in Language Models**, ICLR 2023 [[paper](https://openreview.net/pdf?id=1PL1NIMMrw)]
