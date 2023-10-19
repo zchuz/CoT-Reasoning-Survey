@@ -62,6 +62,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Nature Language Reasoning, A Survey**, arXiv.2303.14725 [[paper](https://doi.org/10.48550/arXiv.2303.14725)]
 - **A Survey on Evaluation of Large Language Models**, arXiv.2307.03109 [[paper](https://doi.org/10.48550/arXiv.2307.03109)] 💡
 - **A Survey on Large Language Model based Autonomous Agents**, arXiv.2308.11432 [[paper](https://doi.org/10.48550/arXiv.2308.11432)] 💡
+- **Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models**, arXiv.2309.01219 [[paper](https://doi.org/10.48550/arXiv.2309.01219)] 💡
 - **Towards Better Chain-of-Thought Prompting Strategies: A Survey**, arXiv.2310.04959 [[paper](https://doi.org/10.48550/arXiv.2310.04959)] 💡
 - **Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity**, arXiv.2310.07521 [[paper](https://doi.org/10.48550/arXiv.2310.07521)] 💡
 
@@ -283,6 +284,7 @@ https://doi.org/10.48550/arXiv.2305.14999
 - **Large Language Models as Tool Makers**, arXiv.2305.17126 [[paper](https://doi.org/10.48550/arXiv.2305.17126)] 💡
 - **GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution**, arXiv.2307.08775 [[paper](https://doi.org/10.48550/arXiv.2307.08775)] 💡
 - **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**, arXiv.2307.16789 [[paper](https://doi.org/10.48550/arXiv.2307.16789)] 💡
+- **Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models**, arXiv.2308.00675 [[paper](https://doi.org/10.48550/arXiv.2308.00675)] 💡
 - **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**, arXiv.2309.10691 [[paper](https://doi.org/10.48550/arXiv.2309.10691)] 💡
 - **Natural Language Embedded Programs for Hybrid Language Symbolic Reasoning**, arxiv.2309.10814 [[paper](https://arxiv.org/abs/2309.10814)] 💡
 - **MetaTool Benchmark: Deciding Whether to Use Tools and Which to Use**, arXiv.2310.03128 [[paper](https://doi.org/10.48550/arXiv.2310.03128)] 💡
