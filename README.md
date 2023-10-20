@@ -223,6 +223,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Crystal: Introspective Reasoners Reinforced with Self-Feedback**, arxiv.2310.04921 [[paper](https://arxiv.org/abs/2310.04921)] 💡
 - **Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models**, arxiv.2310.04921 [[paper](https://arxiv.org/abs/2310.04921)] 💡
 - **Towards Mitigating Hallucination in Large Language Models via Self-Reflection**, arxiv.2310.06271 [[paper](https://arxiv.org/abs/2310.06271)] 💡
+- **MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models**, arXiv.2310.12426 [[paper](https://doi.org/10.48550/arXiv.2310.12426)] 💡
 
 #### Question Decomposition
 
@@ -312,6 +313,7 @@ https://doi.org/10.48550/arXiv.2305.14999
 - **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**, arXiv.2310.04406 [[paper](https://doi.org/10.48550/arXiv.2310.04406)] 💡
 - **Tree-Planner: Efficient Close-loop Task Planning with Large Language Models**, arXiv.2310.08582 [[paper](https://doi.org/10.48550/arXiv.2310.08582)] 💡
 - **Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning**, arXiv.2310.04474 [[paper](https://doi.org/10.48550/arXiv.2310.04474)] 💡
+- **Eliminating Reasoning via Inferring with Planning: A New Framework to Guide LLMs' Non-linear Thinking**, arXiv.2310.12342 [[paper](https://doi.org/10.48550/arXiv.2310.12342)] 💡
 
 ### Distillation
 
