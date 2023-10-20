@@ -63,6 +63,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **A Survey on Evaluation of Large Language Models**, arXiv.2307.03109 [[paper](https://doi.org/10.48550/arXiv.2307.03109)] 💡
 - **A Survey on Large Language Model based Autonomous Agents**, arXiv.2308.11432 [[paper](https://doi.org/10.48550/arXiv.2308.11432)] 💡
 - **Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models**, arXiv.2309.01219 [[paper](https://doi.org/10.48550/arXiv.2309.01219)] 💡
+- **Multimodal Foundation Models: From Specialists to General-Purpose Assistants**, arXiv.2309.10020 [[paper](https://doi.org/10.48550/arXiv.2309.10020)] 💡
 - **Towards Better Chain-of-Thought Prompting Strategies: A Survey**, arXiv.2310.04959 [[paper](https://doi.org/10.48550/arXiv.2310.04959)] 💡
 - **Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity**, arXiv.2310.07521 [[paper](https://doi.org/10.48550/arXiv.2310.07521)] 💡
 
@@ -306,6 +307,7 @@ https://doi.org/10.48550/arXiv.2305.14999
 - **ISR-LLM: Iterative Self-Refined Large Language Model for Long-Horizon Sequential Task Planning**, arXiv.2308.13724 [[paper](https://doi.org/10.48550/arXiv.2308.13724)] 💡
 - **TPTU: Task Planning and Tool Usage of Large Language Model-based AI Agents**, arXiv.2308.03427 [[paper](https://doi.org/10.48550/arXiv.2308.03427)] 💡
 - **You Only Look at Screens: Multimodal Chain-of-Action Agents**, arxiv.2309.11436 [[paper](https://arxiv.org/abs/2309.11436)] 💡
+- **Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency**, arXiv.2309.17382 [[paper](https://doi.org/10.48550/arXiv.2309.17382)] 💡
 - **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**, arxiv.2309.17452 [[paper](https://arxiv.org/abs/2309.17452)] 💡
 - **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**, arXiv.2310.04406 [[paper](https://doi.org/10.48550/arXiv.2310.04406)] 💡
 - **Tree-Planner: Efficient Close-loop Task Planning with Large Language Models**, arXiv.2310.08582 [[paper](https://doi.org/10.48550/arXiv.2310.08582)] 💡
