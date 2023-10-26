@@ -96,6 +96,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Measuring Mathematical Problem Solving With the MATH Dataset**, NeurIPS 2021 [[paper](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/be83ab3ecd0db773eb2dc1b0a17836a1-Abstract-round2.html)]
 - **NumGLUE: A Suite of Fundamental yet Challenging Mathematical Reasoning Tasks**, ACL 2022 [[paper](https://doi.org/10.18653/v1/2022.acl-long.246)]
 - **LILA: A Unified Benchmark for Mathematical Reasoning**, EMNLP 2022 [[paper](https://doi.org/10.18653/v1/2022.emnlp-main.392)]
+- **Automatic Model Selection with Large Language Models for Reasoning**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2305.14333)] 💡
 
 ### Commonsense Reasoning
 
@@ -109,6 +110,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Cosmos QA: Machine Reading Comprehension with Contextual Commonsense Reasoning**, EMNLP 2019 [[paper](https://doi.org/10.18653/v1/D19-1243)]
 - **Does it Make Sense? And Why? A Pilot Study for Sense Making and Explanation**, ACL 2019 [[paper](https://aclanthology.org/P19-1393)]
 - **Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies**, TACL 2021 [[paper](https://doi.org/10.1162/tacl_a_00370)]
+- **CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2310.15239)] 💡
 
 ### Symbolic Reasoning
 
@@ -174,6 +176,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Explanation Selection Using Unlabeled Data for In-Context Learning**, arXiv.2302.04813 [[paper](https://doi.org/10.48550/arXiv.2302.04813)]
 - **Boosted Prompt Ensembles for Large Language Models**, arXiv.2304.05970 [[paper](https://doi.org/10.48550/arXiv.2304.05970)]
 - **Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios with Large Language Models**, arXiv.2310.06692 [[paper](https://doi.org/10.48550/arXiv.2310.06692)] 💡
+- **Self-prompted Chain-of-Thought on Large Language Models for Open-domain Multi-hop Reasoning**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2310.13552)] 💡
 
 ### XoT Structural Variants
 
@@ -235,9 +238,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Decomposed Prompting: A Modular Approach for Solving Complex Tasks**, ICLR 2023 [[paper](https://openreview.net/pdf?id=_nGgzQjzaRy)]
 - **Binding Language Models in Symbolic Languages**, ICLR 2023 [[paper](https://openreview.net/pdf?id=lH1PV42cbF)]
 - **Large Language Models are Versatile Decomposers: Decomposing Evidence and Questions for Table-based Reasoning**, SIGIR 2023 [[paper](https://doi.org/10.1145/3539618.3591708)]
-- **The Art of SOCRATIC QUESTIONING: Zero-shot Multimodal Reasoning with Recursive Thinking and Self-Questioning**, arXiv.2305.14999 [[paper]( 	
-https://doi.org/10.48550/arXiv.2305.14999
-)] 💡
+- **The Art of SOCRATIC QUESTIONING: Zero-shot Multimodal Reasoning with Recursive Thinking and Self-Questioning**, arXiv.2305.14999 [[paper](https://doi.org/10.48550/arXiv.2305.14999)] 💡
 
 #### External Knowledge
 
@@ -314,6 +315,7 @@ https://doi.org/10.48550/arXiv.2305.14999
 - **Tree-Planner: Efficient Close-loop Task Planning with Large Language Models**, arXiv.2310.08582 [[paper](https://doi.org/10.48550/arXiv.2310.08582)] 💡
 - **Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning**, arXiv.2310.04474 [[paper](https://doi.org/10.48550/arXiv.2310.04474)] 💡
 - **Eliminating Reasoning via Inferring with Planning: A New Framework to Guide LLMs' Non-linear Thinking**, arXiv.2310.12342 [[paper](https://doi.org/10.48550/arXiv.2310.12342)] 💡
+- **ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search**, arXiv.2310.13227 [[paper](https://doi.org/10.48550/arXiv.2310.13227)] 💡
 
 ### Distillation
 
@@ -334,6 +336,8 @@ https://doi.org/10.48550/arXiv.2305.14999
 - **DialCoT Meets PPO: Decomposing and Exploring Reasoning Paths in Smaller Language Models**, arXiv.2310.05074 [[paper](
   https://doi.org/10.48550/arXiv.2310.05074)] 💡
 - **Guiding Language Model Reasoning with Planning Tokens**, arXiv.2310.05707 [[paper](https://doi.org/10.48550/arXiv.2310.05707)] 💡
+- **Democratizing Reasoning Ability: Tailored Learning from Large Language Model**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2310.13332)] 💡
+- **Teaching Language Models to Self-Improve through Interactive Demonstrations**, arXiv.2310.13522 [[paper](https://doi.org/10.48550/arXiv.2310.13522)] 💡
 
 ## 🔭 Future Prospect
 
@@ -369,6 +373,7 @@ https://doi.org/10.48550/arXiv.2310.06827)] 💡
 - **Towards Revealing the Mystery behind Chain of Thought: a TheoreticalPerspective**, arXiv.2305.15408 [[paper](https://doi.org/10.48550/arXiv.2305.15408)]
 - **Analyzing Chain-of-Thought Prompting in Large Language Models via Gradient-based Feature Attributions**, arXiv.2307.13339 [[paper](https://doi.org/10.48550/arXiv.2307.13339)]
 - **The Expressive Power of Transformers with Chain of Thought**, arXiv.2310.07923 [[paper](https://doi.org/10.48550/arXiv.2310.07923)] 💡
+- **Why Can Large Language Models Generate Correct Chain-of-Thoughts?**, arXiv.2310.13571 [[paper](https://doi.org/10.48550/arXiv.2310.13571)] 💡
 
 ## 🚢 Other works
 
@@ -389,6 +394,7 @@ https://doi.org/10.48550/arXiv.2310.06827)] 💡
 - **Ask Me Anything: A simple strategy for prompting language models**, ICLR 2023 [[paper](https://openreview.net/pdf?id=bhUPJnS2g0X)]
 - **Large Language Models Can Be Easily Distracted by Irrelevant Context**, ICLR 2023 [[paper](https://proceedings.mlr.press/v202/shi23a.html)]
 - **CoT-BERT: Enhancing Unsupervised Sentence Representation through Chain-of-Thought**, arXiv.2309.11143 [[paper](https://doi.org/10.48550/arXiv.2309.11143)] 💡
+- **Three Questions Concerning the Use of Large Language Models to Facilitate Mathematics Learning**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2310.13615)] 💡
 
 ## 📝 Citation
 
