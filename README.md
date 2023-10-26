@@ -96,7 +96,6 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Measuring Mathematical Problem Solving With the MATH Dataset**, NeurIPS 2021 [[paper](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/be83ab3ecd0db773eb2dc1b0a17836a1-Abstract-round2.html)]
 - **NumGLUE: A Suite of Fundamental yet Challenging Mathematical Reasoning Tasks**, ACL 2022 [[paper](https://doi.org/10.18653/v1/2022.acl-long.246)]
 - **LILA: A Unified Benchmark for Mathematical Reasoning**, EMNLP 2022 [[paper](https://doi.org/10.18653/v1/2022.emnlp-main.392)]
-- **Automatic Model Selection with Large Language Models for Reasoning**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2305.14333)] 💡
 
 ### Commonsense Reasoning
 
@@ -187,6 +186,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**, arXiv.2211.12588 [[paper](https://doi.org/10.48550/arXiv.2211.12588)]
 - **PAL: Program-aided Language Models**, PMLR 2023 [[paper](https://proceedings.mlr.press/v202/gao23f.html)]
 - **Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models**, arXiv.2305.10276 [[paper](https://doi.org/10.48550/arXiv.2305.10276)]
+- **Automatic Model Selection with Large Language Models for Reasoning**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2305.14333)] 💡
 - **Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models**, arXiv.2308.10379 [[paper](https://doi.org/10.48550/arXiv.2308.10379)]
 
 #### Tree Structure
