@@ -282,7 +282,7 @@ This reading list will be updated periodically, and if you have any suggestions 
   https://doi.org/10.48550/arXiv.2303.09014)] 💡
 - **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**, arXiv.2303.11381 [[paper](https://doi.org/10.48550/arXiv.2303.11381)]
 - **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**, arXiv.2303.17580 [[paper](https://api.semanticscholar.org/CorpusID:257833781)]
-- **API-Bank: A Benchmark for Tool-Augmented LLMs**, arXiv.2304.08244 [[paper](https://api.semanticscholar.org/CorpusID:258179056)]
+- **API-Bank: A Benchmark for Tool-Augmented LLMs**, EMNLP 2023 [[paper](https://api.semanticscholar.org/CorpusID:258179056)]
 - **On the Tool Manipulation Capability of Open-source Large Language Models**, arXiv.2305.16504 [[paper](https://doi.org/10.48550/arXiv.2305.16504)] 💡
 - **Large Language Models as Tool Makers**, arXiv.2305.17126 [[paper](https://doi.org/10.48550/arXiv.2305.17126)] 💡
 - **GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution**, arXiv.2307.08775 [[paper](https://doi.org/10.48550/arXiv.2307.08775)] 💡
