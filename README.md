@@ -165,7 +165,8 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Reprompting: Automated Chain-of-Thought Prompt Inference Through Gibbs Sampling**, arXiv.2305.09993 [[paper](https://doi.org/10.48550/arXiv.2305.09993)]
 - **Better Zero-Shot Reasoning with Self-Adaptive Prompting**, ACL 2023 [[paper](https://doi.org/10.48550/arXiv.2305.14106)] 💡
 - **Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic**, arXiv.2309.13339 [[paper](https://doi.org/10.48550/arXiv.2309.13339)] 💡
-- **Agent Instructs Large Language Models to be General Zero-Shot Reasoners**, arXiv.2310.03710, [[paper](https://doi.org/10.48550/arXiv.2310.03710)] 💡
+- **Agent Instructs Large Language Models to be General Zero-Shot Reasoners**, arXiv.2310.03710 [[paper](https://doi.org/10.48550/arXiv.2310.03710)] 💡
+- **PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization**, [[paper](https://doi.org/10.48550/arXiv.2310.16427)] 💡
 
 #### Semi-Automatic Construction
 
@@ -227,6 +228,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models**, arXiv.2310.04921 [[paper](https://doi.org/10.48550/arXiv.2310.04921)] 💡
 - **Towards Mitigating Hallucination in Large Language Models via Self-Reflection**, arXiv.2310.06271 [[paper](https://doi.org/10.48550/arXiv.2310.06271)] 💡
 - **MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models**, arXiv.2310.12426 [[paper](https://doi.org/10.48550/arXiv.2310.12426)] 💡
+- **R^3 Prompting: Review, Rephrase and Resolve for Chain-of-Thought Reasoning in Large Language Models under Noisy Context**, arXiv.2310.16535 [[paper](https://doi.org/10.48550/arXiv.2310.16535)] 💡
 
 #### Question Decomposition
 
@@ -283,6 +285,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**, arXiv.2303.11381 [[paper](https://doi.org/10.48550/arXiv.2303.11381)]
 - **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**, arXiv.2303.17580 [[paper](https://api.semanticscholar.org/CorpusID:257833781)]
 - **API-Bank: A Benchmark for Tool-Augmented LLMs**, EMNLP 2023 [[paper](https://api.semanticscholar.org/CorpusID:258179056)]
+- **ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings**, NeurIPS 2023 [[paper](https://doi.org/10.48550/arXiv.2305.11554)] 💡
 - **On the Tool Manipulation Capability of Open-source Large Language Models**, arXiv.2305.16504 [[paper](https://doi.org/10.48550/arXiv.2305.16504)] 💡
 - **Large Language Models as Tool Makers**, arXiv.2305.17126 [[paper](https://doi.org/10.48550/arXiv.2305.17126)] 💡
 - **GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution**, arXiv.2307.08775 [[paper](https://doi.org/10.48550/arXiv.2307.08775)] 💡
@@ -315,7 +318,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Tree-Planner: Efficient Close-loop Task Planning with Large Language Models**, arXiv.2310.08582 [[paper](https://doi.org/10.48550/arXiv.2310.08582)] 💡
 - **Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning**, arXiv.2310.04474 [[paper](https://doi.org/10.48550/arXiv.2310.04474)] 💡
 - **Eliminating Reasoning via Inferring with Planning: A New Framework to Guide LLMs' Non-linear Thinking**, arXiv.2310.12342 [[paper](https://doi.org/10.48550/arXiv.2310.12342)] 💡
-- **ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search**, arXiv.2310.13227 [[paper](https://doi.org/10.48550/arXiv.2310.13227)] 💡
+- **ToolChain\*: Efficient Action Space Navigation in Large Language Models with A* Search**, arXiv.2310.13227 [[paper](https://doi.org/10.48550/arXiv.2310.13227)] 💡
 
 ### Distillation
 
