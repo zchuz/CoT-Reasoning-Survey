@@ -252,6 +252,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Chain of Knowledge: A Framework for Grounding Large Language Models with Structured Knowledge Bases**, arXiv.2305.13269 [[paper](https://doi.org/10.48550/arXiv.2305.13269)]
 - **Boosting Language Models Reasoning with Chain-of-Knowledge Prompting**, arXiv.2306.06427 [[paper](https://doi.org/10.48550/arXiv.2306.06427)]
 - **Knowledge-Driven CoT: Exploring Faithful Reasoning in LLMs for Knowledge-intensive Question Answering**, arXiv.2308.13259 [[paper](https://doi.org/10.48550/arXiv.2308.13259)]
+- **Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models**, arXiv.2311.09210 [[paper](https://doi.org/10.48550/arXiv.2311.09210)] 💡
 
 #### Vote and Rank
 
@@ -264,7 +265,6 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Discriminator-Guided Multi-step Reasoning with Language Models**, arXiv.2305.14934 [[paper](https://doi.org/10.48550/arXiv.2305.14934)] 💡
 - **SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning**, arXiv.2308.00436 [[paper](https://doi.org/10.48550/arXiv.2308.00436)]
 - **Diversity of Thought Improves Reasoning Abilities of Large Language Models**, arXiv.2310.07088 [[paper](https://doi.org/10.48550/arXiv.2310.07088)] 💡
-- **Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models**, arXiv.2311.09210 [[paper](https://doi.org/10.48550/arXiv.2311.09210)] 💡
 
 #### Efficiency
 
