@@ -229,6 +229,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Towards Mitigating Hallucination in Large Language Models via Self-Reflection**, arXiv.2310.06271 [[paper](https://doi.org/10.48550/arXiv.2310.06271)] 💡
 - **MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models**, arXiv.2310.12426 [[paper](https://doi.org/10.48550/arXiv.2310.12426)] 💡
 - **R^3 Prompting: Review, Rephrase and Resolve for Chain-of-Thought Reasoning in Large Language Models under Noisy Context**, arXiv.2310.16535 [[paper](https://doi.org/10.48550/arXiv.2310.16535)] 💡
+- **Ask One More Time: Self-Agreement Improves Reasoning of Language Models in (Almost) All Scenarios**, arXiv.2311.08154 [[paper](https://doi.org/10.48550/arXiv.2311.08154)] 💡
 
 #### Question Decomposition
 
@@ -263,6 +264,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Discriminator-Guided Multi-step Reasoning with Language Models**, arXiv.2305.14934 [[paper](https://doi.org/10.48550/arXiv.2305.14934)] 💡
 - **SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning**, arXiv.2308.00436 [[paper](https://doi.org/10.48550/arXiv.2308.00436)]
 - **Diversity of Thought Improves Reasoning Abilities of Large Language Models**, arXiv.2310.07088 [[paper](https://doi.org/10.48550/arXiv.2310.07088)] 💡
+- **Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models**, arXiv.2311.09210 [[paper](https://doi.org/10.48550/arXiv.2311.09210)] 💡
 
 #### Efficiency
 
@@ -341,6 +343,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Guiding Language Model Reasoning with Planning Tokens**, arXiv.2310.05707 [[paper](https://doi.org/10.48550/arXiv.2310.05707)] 💡
 - **Democratizing Reasoning Ability: Tailored Learning from Large Language Model**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2310.13332)] 💡
 - **Teaching Language Models to Self-Improve through Interactive Demonstrations**, arXiv.2310.13522 [[paper](https://doi.org/10.48550/arXiv.2310.13522)] 💡
+- **Implicit Chain of Thought Reasoning via Knowledge Distillation**, arXiv.2311.01460 [[paper](https://doi.org/10.48550/arXiv.2311.01460)] 💡
 
 ## 🔭 Future Prospect
 
