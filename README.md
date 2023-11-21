@@ -219,7 +219,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Self-Refine: Iterative Refinement with Self-Feedback**, arXiv.2303.17651 [[paper](https://doi.org/10.48550/arXiv.2303.17651)]
 - **REFINER: Reasoning Feedback on Intermediate Representations**, arXiv.2304.01940 [[paper](https://doi.org/10.48550/arXiv.2304.01904)]
 - **RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought**, arXiv.2305.11499 [[paper](https://doi.org/10.48550/arXiv.2305.11499)]
-- **Deductive Verification of Chain-of-Thought Reasoning**, arXiv.2306.03872 [[paper](https://doi.org/10.48550/arXiv.2306.03872)]
+- **Deductive Verification of Chain-of-Thought Reasoning**, NeurIPS 2023 [[paper](https://doi.org/10.48550/arXiv.2306.03872)]
 - **Forward-Backward Reasoning in Large Language Models for Verification**, arXiv.2308.07758 [[paper](https://doi.org/10.48550/arXiv.2308.07758)]
 - **SCREWS: A Modular Framework for Reasoning with Revisions**, arXiv.2309.13075 [[paper](https://doi.org/10.48550/arXiv.2309.13075)] 💡
 - **Chain-of-Verification Reduces Hallucination in Large Language Models**, arXiv.2309.11495 [[paper](https://doi.org/10.48550/arXiv.2309.11495)] 💡
