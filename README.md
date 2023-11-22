@@ -71,6 +71,13 @@ This reading list will be updated periodically, and if you have any suggestions 
 
 - **How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources**, Dec 2022, Yao Fu’s Notion [[blog](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)]
 - **Towards Complex Reasoning: the Polaris of Large Language Models**, May 2023, Yao Fu’s Notion [[blog](https://yaofu.notion.site/Towards-Complex-Reasoning-the-Polaris-of-Large-Language-Models-c2b4a51355b44764975f88e6a42d4e75)]
+- **Prompt Engineering**, March 2023, Lil’Log [[blog](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)]
+- **LLM Powered Autonomous Agents**, June 2023, Lil’Log [[blog](https://lilianweng.github.io/posts/2023-06-23-agent/)]
+
+### Projects
+
+- **HqWu-HITCS/Awesome-LLM-Survey**, [[project](https://github.com/HqWu-HITCS/Awesome-LLM-Survey)]
+- **AGI-Edgerunners/LLM-Planning-Papers** [[project](https://github.com/AGI-Edgerunners/LLM-Planning-Papers)]
 
 ## 💯 Benchmarks
 
