@@ -204,6 +204,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding**, arXiv.2307.15337 [[paper](https://doi.org/10.48550/arXiv.2307.15337)]
 - **Tree of Uncertain Thoughts Reasoning for Large Language Models**, arXiv.2309.07694 [[paper](https://doi.org/10.48550/arXiv.2309.07694)] 💡
 - **Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models**, arXiv.2310.03965 [[paper](https://doi.org/10.48550/arXiv.2310.03965)] 💡
+- **Autonomous Tree-search Ability of Large Language Models**, arXiv.2310.10686 [[paper](https://doi.org/10.48550/arXiv.2310.10686)] 💡
 
 #### Graph Structure
 
