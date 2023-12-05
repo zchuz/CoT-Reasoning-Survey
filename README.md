@@ -96,7 +96,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **PAL: Program-aided Language Models**, ICML 2023 [[paper](https://proceedings.mlr.press/v202/gao23f.html)]
 - **MathQA: Towards Interpretable Math Word Problem Solving with Operation-Based Formalisms**, NAACL 2019 [[paper](https://doi.org/10.18653/v1/n19-1245)]
 - **DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs**, ACL 2019 [[paper](https://aclanthology.org/N19-1246)]
-- **TheoremQA: A Theorem-driven Question Answering dataset**, arXiv.2305.12524 [[paper](https://doi.org/10.48550/arXiv.2305.12524)]
+- **TheoremQA: A Theorem-driven Question Answering dataset**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2305.12524)]
 - **TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance**, ACL 2021 [[paper](https://doi.org/10.18653/v1/2021.acl-long.254)]
 - **FinQA: A Dataset of Numerical Reasoning over Financial Data**, EMNLP 2021 [[paper](https://doi.org/10.18653/v1/2021.emnlp-main.300)]
 - **ConvFinQA: Exploring the Chain of Numerical Reasoning in Conversational Finance Question Answering**, EMNLP 2022 [[paper](https://doi.org/10.18653/v1/2022.emnlp-main.421)]
@@ -179,7 +179,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 
 - **Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning**, ICLR 2023 [[paper](https://openreview.net/pdf?id=DHyHRBwJUTN)]
 - **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models**, arXiv.2302.00618 [[paper](https://doi.org/10.48550/arXiv.2302.00618)]
-- **Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**, arXiv.2302.12822 [[paper](https://doi.org/10.48550/arXiv.2302.12822)]
+- **Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2302.12822)]
 - **Explanation Selection Using Unlabeled Data for In-Context Learning**, arXiv.2302.04813 [[paper](https://doi.org/10.48550/arXiv.2302.04813)]
 - **Boosted Prompt Ensembles for Large Language Models**, arXiv.2304.05970 [[paper](https://doi.org/10.48550/arXiv.2304.05970)]
 - **Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios with Large Language Models**, arXiv.2310.06692 [[paper](https://doi.org/10.48550/arXiv.2310.06692)] 💡
@@ -200,7 +200,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 #### Tree Structure
 
 - **Large Language Model Guided Tree-of-Thought**, arXiv.2305.08291 [[paper](https://doi.org/10.48550/arXiv.2305.08291)]
-- **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, arXiv.2305.10601 [[paper](https://doi.org/10.48550/arXiv.2305.10601)]
+- **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, NeurIPS 2023 [[paper](https://doi.org/10.48550/arXiv.2305.10601)]
 - **Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding**, arXiv.2307.15337 [[paper](https://doi.org/10.48550/arXiv.2307.15337)]
 - **Tree of Uncertain Thoughts Reasoning for Large Language Models**, arXiv.2309.07694 [[paper](https://doi.org/10.48550/arXiv.2309.07694)] 💡
 - **Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models**, arXiv.2310.03965 [[paper](https://doi.org/10.48550/arXiv.2310.03965)] 💡
@@ -223,8 +223,8 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Successive Prompting for Decomposing Complex Questions**, EMNLP 2022 [[paper](https://doi.org/10.18653/v1/2022.emnlp-main.81)]
 - **Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-long.320)]
 - **Large language models are reasoners with self-verification**, arXiv.2212.09561 [[paper](https://doi.org/10.48550/arXiv.2212.09561)]
-- **Reflexion: Language Agents with Verbal Reinforcement Learning**, arXiv.2303.11366 [[paper](https://api.semanticscholar.org/CorpusID:258833055)]
-- **Self-Refine: Iterative Refinement with Self-Feedback**, arXiv.2303.17651 [[paper](https://doi.org/10.48550/arXiv.2303.17651)]
+- **Reflexion: Language Agents with Verbal Reinforcement Learning**, NeurIPS 2023 [[paper](https://api.semanticscholar.org/CorpusID:258833055)]
+- **Self-Refine: Iterative Refinement with Self-Feedback**, NeurIPS 2023 [[paper](https://doi.org/10.48550/arXiv.2303.17651)]
 - **REFINER: Reasoning Feedback on Intermediate Representations**, arXiv.2304.01940 [[paper](https://doi.org/10.48550/arXiv.2304.01904)]
 - **RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought**, arXiv.2305.11499 [[paper](https://doi.org/10.48550/arXiv.2305.11499)]
 - **Deductive Verification of Chain-of-Thought Reasoning**, NeurIPS 2023 [[paper](https://doi.org/10.48550/arXiv.2306.03872)]
@@ -232,11 +232,11 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **SCREWS: A Modular Framework for Reasoning with Revisions**, arXiv.2309.13075 [[paper](https://doi.org/10.48550/arXiv.2309.13075)] 💡
 - **Chain-of-Verification Reduces Hallucination in Large Language Models**, arXiv.2309.11495 [[paper](https://doi.org/10.48550/arXiv.2309.11495)] 💡
 -  **Large Language Models Cannot Self-Correct Reasoning Yet**, arXiv.2310.01798 [[paper](https://doi.org/10.48550/arXiv.2310.01798)] 💡
-- **Crystal: Introspective Reasoners Reinforced with Self-Feedback**, arXiv.2310.04921 [[paper](https://doi.org/10.48550/arXiv.2310.04921)] 💡
+- **Crystal: Introspective Reasoners Reinforced with Self-Feedback**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2310.04921)] 💡
 - **Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models**, arXiv.2310.04921 [[paper](https://doi.org/10.48550/arXiv.2310.04921)] 💡
 - **Towards Mitigating Hallucination in Large Language Models via Self-Reflection**, arXiv.2310.06271 [[paper](https://doi.org/10.48550/arXiv.2310.06271)] 💡
-- **MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models**, arXiv.2310.12426 [[paper](https://doi.org/10.48550/arXiv.2310.12426)] 💡
-- **R^3 Prompting: Review, Rephrase and Resolve for Chain-of-Thought Reasoning in Large Language Models under Noisy Context**, arXiv.2310.16535 [[paper](https://doi.org/10.48550/arXiv.2310.16535)] 💡
+- **MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2310.12426)] 💡
+- **R^3 Prompting: Review, Rephrase and Resolve for Chain-of-Thought Reasoning in Large Language Models under Noisy Context**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2310.16535)] 💡
 - **Ask One More Time: Self-Agreement Improves Reasoning of Language Models in (Almost) All Scenarios**, arXiv.2311.08154 [[paper](https://doi.org/10.48550/arXiv.2311.08154)] 💡
 
 #### Question Decomposition
@@ -269,7 +269,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Training Verifiers to Solve Math Word Problems**, arXiv.2110.14168 [[paper](https://doi.org/10.48550/arXiv.2110.14168)]
 - **Self-Consistency Improves Chain of Thought Reasoning in Language Models**, ICLR 2023 [[paper](https://openreview.net/pdf?id=1PL1NIMMrw)]
 - **Complexity-Based Prompting for Multi-step Reasoning**, ICLR 2023 [[paper](https://openreview.net/pdf?id=yf1icZHC-l9)]
-- **Answering Questions by Meta-Reasoning over Multiple Chains of Thought**, arXiv.2304.13007 [[paper](https://doi.org/10.48550/arXiv.2304.13007)]
+- **Answering Questions by Meta-Reasoning over Multiple Chains of Thought**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2304.13007)]
 - **Discriminator-Guided Multi-step Reasoning with Language Models**, arXiv.2305.14934 [[paper](https://doi.org/10.48550/arXiv.2305.14934)] 💡
 - **SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning**, arXiv.2308.00436 [[paper](https://doi.org/10.48550/arXiv.2308.00436)]
 - **Diversity of Thought Improves Reasoning Abilities of Large Language Models**, arXiv.2310.07088 [[paper](https://doi.org/10.48550/arXiv.2310.07088)] 💡
@@ -289,11 +289,11 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning**, arXiv.2205.00445 [[paper](https://api.semanticscholar.org/CorpusID:248496374)]
 - **TALM: Tool Augmented Language Models**, arXiv.2205.12255 [[paper](https://doi.org/10.48550/arXiv.2205.12255)]
 - **ReAct: Synergizing Reasoning and Acting in Language Models**, ICLR 2023 [[paper](https://openreview.net/pdf?id=WE_vluYUL-X)]
-- **Toolformer: Language Models Can Teach Themselves to Use Tools**, arXiv.2302.04761 [[paper](https://doi.org/10.48550/arXiv.2302.04761)]
+- **Toolformer: Language Models Can Teach Themselves to Use Tools**, NeurIPS 2023 [[paper](https://doi.org/10.48550/arXiv.2302.04761)]
 - **ART: Automatic multi-step reasoning and tool-use for large language models**, arXiv.2303.09014 [[paper]( 	
   https://doi.org/10.48550/arXiv.2303.09014)] 💡
 - **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**, arXiv.2303.11381 [[paper](https://doi.org/10.48550/arXiv.2303.11381)]
-- **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**, arXiv.2303.17580 [[paper](https://api.semanticscholar.org/CorpusID:257833781)]
+- **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**, NeurIPS 2023 [[paper](https://api.semanticscholar.org/CorpusID:257833781)]
 - **API-Bank: A Benchmark for Tool-Augmented LLMs**, EMNLP 2023 [[paper](https://api.semanticscholar.org/CorpusID:258179056)]
 - **ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings**, NeurIPS 2023 [[paper](https://doi.org/10.48550/arXiv.2305.11554)] 💡
 - **On the Tool Manipulation Capability of Open-source Large Language Models**, arXiv.2305.16504 [[paper](https://doi.org/10.48550/arXiv.2305.16504)] 💡
@@ -307,15 +307,15 @@ This reading list will be updated periodically, and if you have any suggestions 
 
 ### Planning
 
-- **Large Language Models Still Can't Plan (A Benchmark for LLMs on Planning and Reasoning about Change)**, arXiv.2206.10498 [[paper](https://doi.org/10.48550/arXiv.2206.10498)] 💡
-- **Reflexion: Language Agents with Verbal Reinforcement Learning**, arXiv.2303.11366 [[paper](https://api.semanticscholar.org/CorpusID:258833055)]
-- **Self-Refine: Iterative Refinement with Self-Feedback**, arXiv.2303.17651 [[paper](https://doi.org/10.48550/arXiv.2303.17651)]
+- **Large Language Models Still Can't Plan (A Benchmark for LLMs on Planning and Reasoning about Change)**, NeurIPS 2023 [[paper](https://doi.org/10.48550/arXiv.2206.10498)] 💡
+- **Reflexion: Language Agents with Verbal Reinforcement Learning**, NeurIPS 2023 [[paper](https://doi.org/10.48550/arXiv.2303.11366)]
+- **Self-Refine: Iterative Refinement with Self-Feedback**, NeurIPS 2023 [[paper](https://doi.org/10.48550/arXiv.2303.17651)]
 - **LLM+P: Empowering Large Language Models with Optimal Planning Proficiency**, arXiv.2304.11477 [[paper](https://doi.org/10.48550/arXiv.2304.11477)]
 - **Large Language Model Guided Tree-of-Thought**, arXiv.2305.08291 [[paper](https://doi.org/10.48550/arXiv.2305.08291)]
-- **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, arXiv.2305.10601 [[paper](https://doi.org/10.48550/arXiv.2305.10601)]
-- **Reasoning with Language Model is Planning with World Model**, arXiv.2305.14992 [[paper](https://api.semanticscholar.org/CorpusID:258865812)]
-- **On the Planning Abilities of Large Language Models -- A Critical Investigation**, arXiv.2305.15771 [[paper](https://doi.org/10.48550/arXiv.2305.15771)] 💡
-- **AdaPlanner: Adaptive Planning from Feedback with Language Models**, arXiv.2305.16653 [[paper](https://doi.org/10.48550/arXiv.2305.16653)] 💡
+- **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, NeurIPS 2023 [[paper](https://doi.org/10.48550/arXiv.2305.10601)]
+- **Reasoning with Language Model is Planning with World Model**, EMNLP 2023 [[paper](https://api.semanticscholar.org/CorpusID:258865812)]
+- **On the Planning Abilities of Large Language Models -- A Critical Investigation**, NeurIPS 2023 [[paper](https://doi.org/10.48550/arXiv.2305.15771)] 💡
+- **AdaPlanner: Adaptive Planning from Feedback with Language Models**, NeurIPS 2023 [[paper](https://doi.org/10.48550/arXiv.2305.16653)] 💡
 - **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**, arXiv.2308.09687 [[paper](https://doi.org/10.48550/arXiv.2308.09687)]
 - **Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought**, arXiv.2308.08614 [[paper](https://doi.org/10.48550/arXiv.2308.08614)]
 - **Dynamic Planning with a LLM**, arXiv.2308.06391 [[paper](https://api.semanticscholar.org/CorpusID:260887774)]
@@ -335,7 +335,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 ### Distillation
 
 - **STaR: Bootstrapping Reasoning With Reasoning**, NeurIPS 2022 [[paper](http://papers.nips.cc/paper_files/paper/2022/hash/639a9a172c044fbb64175b5fad42e9a5-Abstract-Conference.html)]
-- **Large Language Models Can Self-Improve**, arXiv.2210.11610 [[paper](https://doi.org/10.48550/arXiv.2210.11610)]
+- **Large Language Models Can Self-Improve**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2210.11610)]
 - **Teaching Small Language Models to Reason**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-short.151)]
 - **Large Language Models Are Reasoning Teachers**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-long.830)]
 - **Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think” Step-by-Step**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-long.150)]
@@ -386,7 +386,7 @@ https://doi.org/10.48550/arXiv.2310.06827)] 💡
 - **Exploring the Curious Case of Code Prompts**, arXiv.2304.13250 [[paper](https://doi.org/10.48550/arXiv.2304.13250)] 💡
 - **Large Language Models are In-Context Semantic Reasoners rather than Symbolic Reasoners**, arXiv.2305.14825 [[paper](https://doi.org/10.48550/arXiv.2305.14825)]
 - **Dissecting Chain-of-Thought: A Study on Compositional In-Context Learning of MLPs**, arXiv.2305.18869 [[paper](https://doi.org/10.48550/arXiv.2305.18869)]
-- **Towards Revealing the Mystery behind Chain of Thought: a TheoreticalPerspective**, arXiv.2305.15408 [[paper](https://doi.org/10.48550/arXiv.2305.15408)]
+- **Towards Revealing the Mystery behind Chain of Thought: a TheoreticalPerspective**, NeurIPS 2023 [[paper](https://doi.org/10.48550/arXiv.2305.15408)]
 - **Analyzing Chain-of-Thought Prompting in Large Language Models via Gradient-based Feature Attributions**, arXiv.2307.13339 [[paper](https://doi.org/10.48550/arXiv.2307.13339)]
 - **The Expressive Power of Transformers with Chain of Thought**, arXiv.2310.07923 [[paper](https://doi.org/10.48550/arXiv.2310.07923)] 💡
 - **Why Can Large Language Models Generate Correct Chain-of-Thoughts?**, arXiv.2310.13571 [[paper](https://doi.org/10.48550/arXiv.2310.13571)] 💡
