@@ -329,6 +329,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning**, arXiv.2310.04474 [[paper](https://doi.org/10.48550/arXiv.2310.04474)] 💡
 - **Eliminating Reasoning via Inferring with Planning: A New Framework to Guide LLMs' Non-linear Thinking**, arXiv.2310.12342 [[paper](https://doi.org/10.48550/arXiv.2310.12342)] 💡
 - **ToolChain\*: Efficient Action Space Navigation in Large Language Models with A* Search**, arXiv.2310.13227 [[paper](https://doi.org/10.48550/arXiv.2310.13227)] 💡
+- **Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2310.14628)] 💡
 - **TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems**, arXiv.2311.11315 [[paper](https://doi.org/10.48550/arXiv.2311.11315)] 💡
 
 ### Distillation
