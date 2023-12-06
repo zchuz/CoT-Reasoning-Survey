@@ -273,6 +273,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Discriminator-Guided Multi-step Reasoning with Language Models**, arXiv.2305.14934 [[paper](https://doi.org/10.48550/arXiv.2305.14934)] 💡
 - **SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning**, arXiv.2308.00436 [[paper](https://doi.org/10.48550/arXiv.2308.00436)]
 - **Diversity of Thought Improves Reasoning Abilities of Large Language Models**, arXiv.2310.07088 [[paper](https://doi.org/10.48550/arXiv.2310.07088)] 💡
+- **Universal Self-Consistency for Large Language Model Generation**, arXiv.2311.17311 [[paper](https://doi.org/10.48550/arXiv.2311.17311)] 💡
 
 #### Efficiency
 
