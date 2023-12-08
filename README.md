@@ -176,7 +176,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Better Zero-Shot Reasoning with Self-Adaptive Prompting**, ACL 2023 [[paper](https://doi.org/10.48550/arXiv.2305.14106)] 💡
 - **Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic**, arXiv.2309.13339 [[paper](https://doi.org/10.48550/arXiv.2309.13339)] 💡
 - **Agent Instructs Large Language Models to be General Zero-Shot Reasoners**, arXiv.2310.03710 [[paper](https://doi.org/10.48550/arXiv.2310.03710)] 💡
-- **PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization**, [[paper](https://doi.org/10.48550/arXiv.2310.16427)] 💡
+- **PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization**, arXiv.2310.16427 [[paper](https://doi.org/10.48550/arXiv.2310.16427)] 💡
 
 
 #### Semi-Automatic Construction
