@@ -68,6 +68,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity**, arXiv.2310.07521 [[paper](https://doi.org/10.48550/arXiv.2310.07521)] 💡
 - **The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities**, arXiv.2311.00237 [[paper](https://arxiv.org/abs/2311.00237)] 💡
 - **A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions**, arXiv.2311.05232 [[paper](https://arxiv.org/abs/2311.05232)] 💡
+
 ### Blogs
 
 - **How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources**, Dec 2022, Yao Fu’s Notion [[blog](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)]
@@ -305,8 +306,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **TALM: Tool Augmented Language Models**, arXiv.2205.12255 [[paper](https://doi.org/10.48550/arXiv.2205.12255)]
 - **ReAct: Synergizing Reasoning and Acting in Language Models**, ICLR 2023 [[paper](https://openreview.net/pdf?id=WE_vluYUL-X)]
 - **Toolformer: Language Models Can Teach Themselves to Use Tools**, NeurIPS 2023 [[paper](https://doi.org/10.48550/arXiv.2302.04761)]
-- **ART: Automatic multi-step reasoning and tool-use for large language models**, arXiv.2303.09014 [[paper]( 	
-  https://doi.org/10.48550/arXiv.2303.09014)] 💡
+- **ART: Automatic multi-step reasoning and tool-use for large language models**, arXiv.2303.09014 [[paper](https://doi.org/10.48550/arXiv.2303.09014)] 💡
 - **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**, arXiv.2303.11381 [[paper](https://doi.org/10.48550/arXiv.2303.11381)]
 - **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**, NeurIPS 2023 [[paper](https://api.semanticscholar.org/CorpusID:257833781)]
 - **API-Bank: A Benchmark for Tool-Augmented LLMs**, EMNLP 2023 [[paper](https://api.semanticscholar.org/CorpusID:258179056)]
@@ -415,7 +415,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Question Decomposition Improves the Faithfulness of Model-Generated Reasoning**, arXiv.2307.11768 [[paper](https://doi.org/10.48550/arXiv.2307.11768)]
 - **Measuring Faithfulness in Chain-of-Thought Reasoning**, arXiv.2307.13702 [[paper](https://doi.org/10.48550/arXiv.2307.13702)]
 - **Chain of Natural Language Inference for Reducing Large Language Model Ungrounded Hallucinations**, arXiv.2310.03951 [[paper](https://doi.org/10.48550/arXiv.2310.03951)] 💡
-- **Teaching Language Models to Hallucinate Less with Synthetic Tasks**, 	arXiv:2310.06827 [[paper](
+- **Teaching Language Models to Hallucinate Less with Synthetic Tasks**, arXiv:2310.06827 [[paper](
 https://doi.org/10.48550/arXiv.2310.06827)] 💡
 
 ### CoT Theory
@@ -423,6 +423,7 @@ https://doi.org/10.48550/arXiv.2310.06827)] 💡
 - **Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango**, arXiv.2209.07686 [[paper](https://doi.org/10.48550/arXiv.2209.07686)]
 - **Language Models of Code are Few-Shot Commonsense Learners**, EMNLP 2022 [[paper](https://doi.org/10.18653/v1/2022.emnlp-main.90)] 💡
 - **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-long.153)]
+- **Why think step by step? Reasoning emerges from the locality of experience**, arXiv.2304.03843 [[paper](https://doi.org/10.48550/arXiv.2304.03843)] 💡
 - **Exploring the Curious Case of Code Prompts**, arXiv.2304.13250 [[paper](https://doi.org/10.48550/arXiv.2304.13250)] 💡
 - **Large Language Models are In-Context Semantic Reasoners rather than Symbolic Reasoners**, arXiv.2305.14825 [[paper](https://doi.org/10.48550/arXiv.2305.14825)]
 - **Dissecting Chain-of-Thought: A Study on Compositional In-Context Learning of MLPs**, arXiv.2305.18869 [[paper](https://doi.org/10.48550/arXiv.2305.18869)]
