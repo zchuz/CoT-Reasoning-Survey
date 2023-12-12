@@ -355,45 +355,27 @@ This reading list will be updated periodically, and if you have any suggestions 
 ### Distillation
 
 - **STaR: Bootstrapping Reasoning With Reasoning**, NeurIPS 2022 [[paper](http://papers.nips.cc/paper_files/paper/2022/hash/639a9a172c044fbb64175b5fad42e9a5-Abstract-Conference.html)]
-
 - **Large Language Models Can Self-Improve**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2210.11610)]
-
 - **Teaching Small Language Models to Reason**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-short.151)]
-
 - **Large Language Models Are Reasoning Teachers**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-long.830)]
-
 - **Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think” Step-by-Step**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-long.150)]
-
 - **SCOTT: Self-Consistent Chain-of-Thought Distillation**, ACL 2023 [[paper](https://api.semanticscholar.org/CorpusID:258461058)]
-
 - **Specializing Smaller Language Models towards Multi-Step Reasoning**, ICML 2023 [[paper](https://api.semanticscholar.org/CorpusID:256390607)]
-
 - **Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes**, arXiv.2305.02301 [[paper](https://api.semanticscholar.org/CorpusID:258461606)]
-
 - **Contrastive Decoding: Open-ended Text Generation as Optimizatio**, ACL 2023 [[paper](https://doi.org/10.18653/v1/2023.acl-long.687)]
-
 - **Contrastive Decoding Improves Reasoning in Large Language Models**, arXiv.2309.09117 [[paper](https://api.semanticscholar.org/CorpusID:261884427)]
-
 - **Chain-of-Thought Reasoning is a Policy Improvement Operator**, arXiv.2309.08589 [[paper](
   https://doi.org/10.48550/arXiv.2309.08589)] 💡
-  
 - **Design of Chain-of-Thought in Math Problem Solving**, arXiv.2309.11054 [[paper](
   https://doi.org/10.48550/arXiv.2309.11054)] 💡
-  
 - **DialCoT Meets PPO: Decomposing and Exploring Reasoning Paths in Smaller Language Models**, arXiv.2310.05074 [[paper](
   https://doi.org/10.48550/arXiv.2310.05074)] 💡
-  
 - **Guiding Language Model Reasoning with Planning Tokens**, arXiv.2310.05707 [[paper](https://doi.org/10.48550/arXiv.2310.05707)] 💡
-
 - **Democratizing Reasoning Ability: Tailored Learning from Large Language Model**, EMNLP 2023 [[paper](https://doi.org/10.48550/arXiv.2310.13332)] 💡
-
 - **MCC-KD: Multi-CoT Consistent Knowledge Distillation**, EMNLP 2023 [[paper](https://aclanthology.org/2023.findings-emnlp.454)] 💡
-
 - **Teaching Language Models to Self-Improve through Interactive Demonstrations**, arXiv.2310.13522 [[paper](https://doi.org/10.48550/arXiv.2310.13522)] 💡
-
 - **Implicit Chain of Thought Reasoning via Knowledge Distillation**, arXiv.2311.01460 [[paper](https://doi.org/10.48550/arXiv.2311.01460)] 💡
 
-  
 
 ## 🔭 Future Prospect
 
