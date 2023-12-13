@@ -320,6 +320,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**, arXiv.2309.10691 [[paper](https://doi.org/10.48550/arXiv.2309.10691)] 💡
 - **Natural Language Embedded Programs for Hybrid Language Symbolic Reasoning**, arXiv.2309.10814 [[paper](https://doi.org/10.48550/arXiv.2309.10814)] 💡
 - **MetaTool Benchmark: Deciding Whether to Use Tools and Which to Use**, arXiv.2310.03128 [[paper](https://doi.org/10.48550/arXiv.2310.03128)] 💡
+- **TaskBench: Benchmarking Large Language Models for Task Automation**, arXiv.2311.18760 [[paper](https://doi.org/10.48550/arXiv.2311.18760)] 💡
 
 ### Planning
 
