@@ -1,8 +1,9 @@
 <div align="center">
-<h1>
-A Survey of Chain of Thought Reasoning:
-Advances, Frontiers and Future
-</h1>
+<h2>
+Navigate through Enigmatic Labyrinth
+    
+A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future
+</h2>
 </div>
 
 <div align="center">
@@ -33,7 +34,7 @@ Advances, Frontiers and Future
     <a href="https://github.com/zchuz/CoT-Reasoning-Survey/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/zchuz/CoT-Reasoning-Survey?color=green"> </a>
 </div>
 
-This repository contains the resources for paper **_A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future_**
+This repository contains the resources for **ACL 2024** paper **_Navigate through Enigmatic Labyrinth, A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future_**
 
 ![taxonomy](figure/taxonomy.png)
 
