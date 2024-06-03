@@ -42,6 +42,7 @@ For more details, please refer to the paper: [A Survey of Chain of Thought Reaso
 
 ## 🎉 Updates
 
+- 2024/06/03 This paper is accepted to ACL2024. We will realease the camera ready version soon.
 - 2023/10/17 The second version of our paper has been released, check it on [arxiv](https://doi.org/10.48550/arXiv.2309.15402).
 - 2023/10/15 We have updated 44 papers in the reading list, and the v2 paper is on its way.
 - 2023/09/27 The first version of our paper is available on [arxiv](https://doi.org/10.48550/arXiv.2309.15402).
