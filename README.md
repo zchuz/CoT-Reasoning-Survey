@@ -443,14 +443,15 @@ https://doi.org/10.48550/arXiv.2310.06827)] 💡
 If you find our work helpful, you can cite this paper as:
 
 ```bibtex
-@misc{chuCoTReasoningSurvey2023,
-      title={A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future}, 
-      author={Zheng Chu and Jingchang Chen and Qianglong Chen and Weijiang Yu and Tao He and Haotian Wang and Weihua Peng and Ming Liu and Bing Qin and Ting Liu},
-      year={2023},
-      eprint={2309.15402},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{chuCoTReasoningSurvey2024,
+    title={Navigate through Enigmatic Labyrinth A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future},
+    author={Zheng Chu and Jingchang Chen and Qianglong Chen and Weijiang Yu and Tao He and Haotian Wang and Weihua Peng and Ming Liu and Bing Qin and Ting Liu},
+    booktitle={The 62nd Annual Meeting of the Association for Computational Linguistics: ACL 2024, Bangkok, Thailand, August 11–16, 2024},
+    publisher={Association for Computational Linguistics},
+    year={2024},
+    url={https://arxiv.org/abs/2309.15402}
 }
 ```
+
 
 ![Star History Chart](https://api.star-history.com/svg?repos=zchuz/CoT-Reasoning-Survey&type=Date)
