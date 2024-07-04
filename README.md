@@ -29,7 +29,8 @@ A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future
 <br />
 
 <div align="center">
-    <a href="https://doi.org/10.48550/arXiv.2309.15402"><img src="https://img.shields.io/badge/arXiv-2309.15402-b31b1b.svg" alt="Paper"></a>
+    <a href="https://doi.org/10.48550/arXiv.2309.15402"><img src="https://img.shields.io/badge/ACL-2024-b31b1b.svg" alt="Paper"></a>
+    <!-- <a href="https://doi.org/10.48550/arXiv.2309.15402"><img src="https://img.shields.io/badge/arXiv-2309.15402-b31b1b.svg" alt="Paper"></a> -->
     <a href="https://github.com/zchuz/CoT-Reasoning-Survey"><img src="https://img.shields.io/github/last-commit/zchuz/CoT-Reasoning-Survey?color=blue" alt="Github"></a>
     <a href="https://github.com/zchuz/CoT-Reasoning-Survey/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/zchuz/CoT-Reasoning-Survey?color=green"> </a>
 </div>
@@ -42,7 +43,7 @@ For more details, please refer to the paper: [A Survey of Chain of Thought Reaso
 
 ## 🎉 Updates
 
-- 2024/06/03 This paper is accepted to ACL2024. We will realease the camera ready version soon.
+- 2024/06/03 This paper is accepted to ACL2024, camera ready version released.
 - 2023/10/17 The second version of our paper has been released, check it on [arxiv](https://doi.org/10.48550/arXiv.2309.15402).
 - 2023/10/15 We have updated 44 papers in the reading list, and the v2 paper is on its way.
 - 2023/09/27 The first version of our paper is available on [arxiv](https://doi.org/10.48550/arXiv.2309.15402).
@@ -108,7 +109,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **NumGLUE: A Suite of Fundamental yet Challenging Mathematical Reasoning Tasks**, ACL 2022 [[paper](https://doi.org/10.18653/v1/2022.acl-long.246)]
 - **LILA: A Unified Benchmark for Mathematical Reasoning**, EMNLP 2022 [[paper](https://doi.org/10.18653/v1/2022.emnlp-main.392)]
 - **Conic10K: A Challenging Math Problem Understanding and Reasoning Dataset**, EMNLP 2023 [[paper](https://aclanthology.org/2023.findings-emnlp.427.pdf)] 💡
-- 
+
 ### Commonsense Reasoning
 
 - **Think you have Solved Direct-Answer Question Answering? Try ARC-DA, the Direct-Answer AI@ Reasoning Challenge**, arXiv.2102.03315 [[paper](https://doi.org/10.48550/arXiv.2102.03315)]
@@ -353,7 +354,6 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers**, EMNLP 2023 [[paper](https://aclanthology.org/2023.emnlp-main.313/)] 💡
 - **Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning**, EMNLP 2023 [[paper](https://aclanthology.org/2023.findings-emnlp.248/)] 💡
 - **SATLM: Satisfiability-Aided Language Models Using Declarative Prompting**, NeurIPS 2023 [[paper](https://arxiv.org/abs/2305.09656)] 💡
-- 
 
 ### Distillation
 
